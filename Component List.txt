@@ -1,0 +1,12 @@
+- Arduino Nano 
+- HC-05 or 06 Bluetooth Module
+- 4WD Robot Chassis Kit
+- 3.7v 18650 Li-Ion Batteries (x2)
+- Li-Ion 18650 Battery Holder
+- L298N motor driver
+-Terminal Blocks (x2)
+- PCB Mount Slide switch
+- 24 guage solid core wire
+- Brass Hex Spacers for PCBs
+- Female Jumper Wires
+- Prototyping Board
